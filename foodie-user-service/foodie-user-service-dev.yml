@@ -3,5 +3,4 @@ mariadb:
   password: '{cipher}3ec10800baeee0dbfba3fa4fa9f6f23581f39744bcbfe42e7a638125d3946f59'
 userservice:
   registration:
-    disabled: true
-test: false
+    disabled: false
