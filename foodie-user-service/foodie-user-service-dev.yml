@@ -1,5 +1,5 @@
 mariadb:
-  url:jdbc: 'mysql://localhost:3306/foodie-shop?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&serverTimezone=Asia/Shanghai'
+  url: 'jdbc:mysql://localhost:3306/foodie-shop?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&serverTimezone=Asia/Shanghai'
   password: '{cipher}3ec10800baeee0dbfba3fa4fa9f6f23581f39744bcbfe42e7a638125d3946f59'
 userservice:
   registration:
