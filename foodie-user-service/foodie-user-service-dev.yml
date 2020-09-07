@@ -4,4 +4,4 @@ mariadb:
 userservice:
   registration:
     disabled: true
-test: true
+test: false
